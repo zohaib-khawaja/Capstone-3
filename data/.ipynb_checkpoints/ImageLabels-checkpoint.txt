@@ -1,0 +1,12 @@
+fresh_apple
+fresh_banana
+fresh_bitter_gourd
+fresh_capsicum
+fresh_orange
+fresh_tomato
+stale_apple
+stale_banana
+stale_bitter_gourd
+stale_capsicum
+stale_orange
+stale_tomato
